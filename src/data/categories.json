@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "categoria": "Programming",
+      "popularidad": 95
+    },
+    {
+      "id": 2,
+      "categoria": "Pun",
+      "popularidad": 88
+    },
+    {
+      "id": 3,
+      "categoria": "Misc",
+      "popularidad": 80
+    },
+    {
+      "id": 4,
+      "categoria": "Spooky",
+      "popularidad": 72
+    },
+    {
+      "id": 5,
+      "categoria": "Christmas",
+      "popularidad": 65
+    },
+    {
+      "id": 6,
+      "categoria": "Dark",
+      "popularidad": 58
+    }
+  ]
